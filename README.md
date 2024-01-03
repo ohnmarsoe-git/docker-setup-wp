@@ -1,4 +1,13 @@
 # Wordpress Local Development Setup with Docker Compose
+This is lightweight local environment setup for Wordperss development by using docker compose.
+
+## Technologies
+  - Docker Compose
+  - Nginx
+  - PHP 7.4
+  - Mysql
+  - Wordpress
+
 
 ## Prerequisites
 Make sure you have Git, Docker installed before you run the script! Also make sure no other Docker containers are currently running.
