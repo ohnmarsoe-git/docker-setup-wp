@@ -17,7 +17,7 @@ server_name xxx.xx.com;
 open docker-compose.yml
 ```
 
-Line 30 to 34
+Line 30 to 34 and Line 46 to 49
 Change databse name, username and password
 
 ```
@@ -42,7 +42,7 @@ $ docker stop $(docker ps -aq)
 
 Run script
 ```
-- $ docker-compose up -d
+$ docker-compose up -d
 ```
 
 ### Add domain name on hosts file
